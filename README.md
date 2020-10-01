@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KrishnaPayyavula&color=brightgreen&style=plastic&label=PROFILE+VIEWS" /> </p>
 
-- 🌱 I’m currently doing exploring **Amazon Web Services, Linux, Nginix, API Gateways, Node.JS**
+- 🌱 I’m currently exploring **Amazon Web Services, Linux, Nginix, API Gateways, Node.JS**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/KrishnaPayyavula)
 
