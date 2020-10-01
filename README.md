@@ -11,14 +11,14 @@
 
 - 💬 Ask me about **MongoDB, Node JS, Javascript, Express Gateway**
 
-- 📫 How to reach via mail 💌 **payyavulavenkatakrishna@outlook.com**
+- 📫 Reach via mail 💌 **payyavulavenkatakrishna@outlook.com**
 
 - ⚡ Real fact **--- Love Running, Travelling, Browsing, Reading , Sometimes Cooking ---**
 
 ### Skills
 
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.JS" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/getzephyr/getzephyr-ar21.svg" alt="zephyr" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/express-gatewayio/express-gatewayio-ar21.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaPayyavula&layout=compact&hide=html" alt="KrishnaPayyavula" /></p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.JS" width="60" height="60"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="60" height="60"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="60" height="60"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="60" height="60"/><img src="https://www.vectorlogo.zone/logos/getzephyr/getzephyr-ar21.svg" alt="zephyr" width="60" height="60"/><img src="https://www.vectorlogo.zone/logos/express-gatewayio/express-gatewayio-ar21.svg" alt="python" width="60" height="60"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaPayyavula&layout=compact&hide=html" alt="KrishnaPayyavula" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KrishnaPayyavula&show_icons=true" alt="KrishnaPayyavula" /></p>
 
