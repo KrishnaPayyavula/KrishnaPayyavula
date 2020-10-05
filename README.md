@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">Application Developer💻 & Traveller 🌏 & Local Guide 🧭</h3>
+<h3 align="center">Backend Application Developer💻 & Traveller 🌏 & Local Guide 🧭</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KrishnaPayyavula&color=brightgreen&style=plastic&label=PROFILE+VIEWS" /> </p>
 
