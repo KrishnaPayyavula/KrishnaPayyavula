@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring **Amazon Web Services, Linux, Nginix, API Gateways, Node.JS**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/KrishnaPayyavula)
+- 👨‍💻 All of my learnings & projects are available at [Github](https://github.com/KrishnaPayyavula)
 
 - 📝 I regulary follow  [Medium](https://medium.com/) and [Dev.to](https://dev.to/)
 
