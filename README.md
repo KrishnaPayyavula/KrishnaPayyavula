@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">Backend Application Developer💻 & Explorer 🌏 </h3>
+<h3 align="center">Backend Developer💻 & Explorer 🌏 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KrishnaPayyavula&color=brightgreen&style=plastic&label=PROFILE+VIEWS" /> </p>
 
@@ -7,7 +7,7 @@
 - 👨‍💻 Check out my learning projects and professional work on [GitHub](https://github.com/KrishnaPayyavula)
 - 📝 I regularly publish technical articles on [Medium](https://medium.com/@krishnapayyavula) and [Dev.to](https://dev.to/krishnapayyavula)
 - 💬 Ask me about **designing and implementing scalable and secure backend systems using technologies such as MongoDB, Node.js, JavaScript, and Express Gateway**
-- 📫 You can reach me via email at 💌 **payyavulavenkatakrishna@outlook.com**
+- 📫 You can reach me via email at 💌 **hello_krishna@outlook.com**
 - 🌎 Check out my contributions to Google Maps 🧭 [**Contributions by Krishna**](https://maps.app.goo.gl/Zm6X6z2zEFaz3Kux8)
 - ⚡ Fun fact: **I love running, travelling, browsing, reading, and occasionally cooking!**
 
