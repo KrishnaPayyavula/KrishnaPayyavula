@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently expanding my expertise in **Amazon Web Services, Linux, Nginx, API Gateways, and Node.js**
 - 👨‍💻 Check out my learning projects and professional work on [GitHub](https://github.com/KrishnaPayyavula)
-- 📝 I regularly publish technical articles on [Medium](https://medium.com/@krishnapayyavula) and [Dev.to](https://dev.to/krishnapayyavula)
+- 📝 I regularly read technical articles on [Medium](https://medium.com/@krishnapayyavula) and [Dev.to](https://dev.to/krishnapayyavula)
 - 💬 Ask me about **designing and implementing scalable and secure backend systems using technologies such as MongoDB, Node.js, JavaScript, and Express Gateway**
 - 📫 You can reach me via email at 💌 **hello_krishna@outlook.com**
 - 🌎 Check out my contributions to Google Maps 🧭 [**Contributions by Krishna**](https://maps.app.goo.gl/Zm6X6z2zEFaz3Kux8)
