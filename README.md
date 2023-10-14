@@ -9,7 +9,7 @@
 - 💬 Ask me about **designing and implementing scalable and secure backend systems using technologies such as Conversational AI, MongoDB, Node.js, JavaScript, Python, and  AWS**
 - 📫 You can reach me via email at 💌 **hello_krishna@outlook.com**
 - 🌎 Check out my contributions to Google Maps 🧭 [**Contributions by Krishna**](https://maps.app.goo.gl/Zm6X6z2zEFaz3Kux8)
-- ⚡ Fun fact: **I love running, traveling, browsing, reading, and cycling!**
+- ⚡ Hobbies: **I love farming, running, traveling, browsing, reading, and cycling!**
 
 ### Skills
 
