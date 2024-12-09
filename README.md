@@ -13,7 +13,9 @@
 
 ### Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KrishnaPayyavula&show_icons=true" alt="KrishnaPayyavula's GitHub stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KrishnaPayyavula&show_icons=true&locale=en" alt="KrishnaPayyavula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaPayyavula&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
 
 <p align="center">
 <a href="https://twitter.com/hola_krishna" target="_blank"><img src="https://img.shields.io/twitter/follow/hola_krishna?logo=twitter&style=for-the-badge" alt="Twitter"></a>
