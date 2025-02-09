@@ -1,24 +1,30 @@
-<h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">Backend Developer💻 & Explorer 🌏 </h3>
+# Krishna Payyavula  
+**Senior Backend Developer — Cloud & Conversational AI, Automation Specialist**  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KrishnaPayyavula&color=brightgreen&style=plastic&label=PROFILE+VIEWS" /> </p>
+## About Me  
+Backend systems engineer with nearly 8+ years of experience building scalable solutions using Node.js, Python, and cloud-native architectures. Specializing in AI-driven customer service platforms and enterprise-grade conversational systems. Currently focused on LLM integration and multi-cloud implementations.
 
-- 🌱 I’m currently expanding my expertise in **Amazon Web Services, Linux, Nginx, API Gateways, and Node.js**
-- 👨‍💻 Check out my learning projects and professional work on [GitHub](https://github.com/KrishnaPayyavula)
-- 📝 I regularly read technical articles on [Medium](https://medium.com/@krishnapayyavula) and [Dev.to](https://dev.to/krishnapayyavula)
-- 💬 Ask me about **designing and implementing scalable and secure backend systems using technologies such as Conversational AI, MongoDB, Node.js, JavaScript, Python, and  AWS**
-- 📫 You can reach me via email at 💌 **hello_krishna@outlook.com**
-- 🌎 Check out my contributions to Google Maps 🧭 [**Contributions by Krishna**](https://maps.app.goo.gl/Zm6X6z2zEFaz3Kux8)
-- ⚡ Hobbies: **I love farming, running, traveling, browsing, reading, and cycling! **
+## Core Competencies  
+- **AI/ML**: Conversational AI, NLP, LangChain, Azure OpenAI, LLM integration  
+- **Cloud**: AWS, Azure AI Services, GCP, Serverless,
+- **Backend**: Distributed Systems, Microservices, REST APIs, Serverless Architecture
+- **Programming**: Javascript, Typescript, Python, SQL
+- **Frameworks&Tools**: React, Pandas, ETL, VS Code, Postman, K6, GitHub Actions, CICD, Automation Scripts
+- **Databases**: Vector Stores, MongoDB, PostgreSQL, Elasticsearch, DynamoDB, AWS RDS  
+- **DevOps**: CI/CD Pipelines, Docker, Kubernetes, ArgoCD, Infrastructure-as-Code  
 
-### Skills
+## Featured Projects  
+- **Multi-Cloud Speech Processing, AI Customer Service Agents**: Developed Custom build Conversational AI Speech, Text Bots + Azure AI Services integration handling 20k+ daily calls and Conversations  
+- **LLM Knowledge Retrieval**: Implemented RAG system using Azure OpenAI, LangChain, LlamaIndex and Vector Stores (40% accuracy improvement)  
+- **Healthcare Analytics Platform**: Developed HIPAA-compliant microservices processing 50M+ monthly records  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KrishnaPayyavula&show_icons=true&locale=en" alt="KrishnaPayyavula" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaPayyavula&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-</p>
-
+## Technical Stats  
 <p align="center">
-<a href="https://twitter.com/hola_krishna" target="_blank"><img src="https://img.shields.io/twitter/follow/hola_krishna?logo=twitter&style=for-the-badge" alt="Twitter"></a>
-<a href="https://www.linkedin.com/in/krishnapayyavula/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=blue" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/venkatakrishna.payyavula/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&color=blue" alt="Facebook"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaPayyavula&show_icons=true&theme=neutral" />
 </p>
+
+## Connect  
+- LinkedIn: [krishnapayyavula](https://www.linkedin.com/in/krishnapayyavula/)  
+- Portfolio: [Latest Work Samples](https://krishnapayyavula.github.io/)  
+- Email: hejvkp@gmail.com  
+- Technical Writing: [Blogs](krishnapayyavula.github.io)  
